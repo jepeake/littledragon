@@ -1,13 +1,14 @@
 # _compiler_
 
-This repository contains a C to RISC-V Compiler implemented in C++.
+_This repository contains a C to RISC-V Compiler implemented in C++._ 
 
-The source language is pre-processed C90 & the target language is RISC-V Assembly.
+_The source language is pre-processed C90 & the target language is RISC-V Assembly._
 
 ---
 
-### Contributors
-jepeake    
-mattstevenson22
+### _Contributors_
+
+_jepeake_   
+_mattstevenson22_
 
 ---
