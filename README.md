@@ -1,4 +1,4 @@
-# _compiler_
+# _littledragon_
 
 _This repository contains a C to RISC-V Compiler implemented in C++._ 
 
